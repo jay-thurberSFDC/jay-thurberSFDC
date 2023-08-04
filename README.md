@@ -1,6 +1,6 @@
 # Welcome to Jay Thurber's GitHub!
 
-![Profile Image](https://media.licdn.com/dms/image/C4E03AQEyEIi9sMTggA/profile-displayphoto-shrink_800_800/0/1646700327506?e=1696464000&v=beta&t=dMJm1zTmwqH5w8CG3qsPZkT4tEn4uHMi4gUpJsg5KN4)
+<kbd><img class="profilePic" src="https://media.licdn.com/dms/image/C4E03AQEyEIi9sMTggA/profile-displayphoto-shrink_800_800/0/1646700327506?e=1696464000&v=beta&t=dMJm1zTmwqH5w8CG3qsPZkT4tEn4uHMi4gUpJsg5KN4" alt="Profile Image" width="300" /></kbd>
 
 ## 👋 About Me
 
